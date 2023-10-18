@@ -1,3 +1,7 @@
 Git fetch
 git merge
+git rebase
+git diff
+git push
+
 
